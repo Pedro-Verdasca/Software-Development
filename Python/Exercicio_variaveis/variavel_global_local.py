@@ -7,7 +7,7 @@ def funcao_variaveis():
     
 #variável local
     hello_local="Oi"
-    nome = "Pedro Verdasca"
+    nome="Pedro Verdasca"
     print(f"\n{hello_local}, dentro da função, meu nome é: {nome}.")
     print(f"\nAcessando a variável hello_global dentro da função: {hello_global}.")
 
