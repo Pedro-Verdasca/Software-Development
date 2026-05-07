@@ -1,2 +1,1 @@
-Desenvolvimento de Pseudocódigo
-Transcrição para Python
+Desenvolvimento de Pseudocódigo e Transcrição para Python
