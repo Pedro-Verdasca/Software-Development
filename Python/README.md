@@ -1,1 +1,1 @@
-Exercícios Python.
+Exercícios, projetos e estudos práticos em Python.
