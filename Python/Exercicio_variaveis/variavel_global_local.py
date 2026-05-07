@@ -1,18 +1,17 @@
 #variável global
-hello="Olá"
+hello_global="Olá"
 nome="Pedro Luiz"
 
 #função
 def funcao_variaveis():
     
 #variável local
-saudacao="Oi"
-nome="Pedro Verdasca"
-
-print(f"\nDentro da função meu nome é: {nome}.")
-print(f"\nAcessando a variável global dentro da função: {hello})
-
+    hello_local="Oi"
+    nome = "Pedro Verdasca"
+    print(f"\n{hello_local}, dentro da função, meu nome é: {nome}.")
+    print(f"\nAcessando a variável hello_global dentro da função: {hello_global}.")
 
 funcao_variaveis()
 
-print(f"\n{hello}, Fora da função meu nome é {nome}")
+
+print(f"\n{hello_global}, fora da função, meu nome é {nome}")
