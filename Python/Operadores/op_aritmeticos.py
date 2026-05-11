@@ -15,8 +15,6 @@ potencia=a**b
 
 concate=c+d
 
-print( )
-
 #resultados
 print(f"a + b = {soma}")
 print(f"a - b = {subtracao}")
@@ -26,7 +24,7 @@ print(f"a // b = {div_inteira}")
 print(f"a % b = {modulo}")
 print(f"a ** b = {potencia}")
 
-print( )
+print("---------------------------------")
 
 #v2 resultados
 print(f"{a} + {b} = {soma}")
@@ -37,7 +35,7 @@ print(f"{a} // {b} = {div_inteira}")
 print(f"{a} % {b} = {modulo}")
 print(f"{a} ** {b} = {potencia}")
 
-print( )
+print("---------------------------------")
 
 #concatenação
 print(f"{c}+ {d} = {concate}")
