@@ -1,1 +1,1 @@
-Exercícios com Operadores Aritméticos
+Exercícios com Operadores Aritméticos, de Comparação e Lógicos
