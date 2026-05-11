@@ -10,8 +10,6 @@ diferente_de=x!=y
 maior_igual=x>=y
 menor_igual=x<=y
 
-print( )
-
 #resultados
 print(f"x > y = {maior_que}")
 print(f"x < y = {menor_que}")
