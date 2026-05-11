@@ -18,7 +18,7 @@ print(f"d) x != y = {diferente_de}")
 print(f"e) x >= y = {maior_igual}")
 print(f"f) x <= y = {menor_igual}")
 
-print(-------------------------------------------------------)
+print("---------------------------------")
 
 #v2 resultados
 #Maior que
