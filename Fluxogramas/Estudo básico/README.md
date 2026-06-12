@@ -1,0 +1,1 @@
+Primeiro estudo sobre fluxogramas, desenvolvido no Microsoft Visio, utilizando o ato de trocar uma lâmpada queimada para descrever passos utilizando conceitos básicos de simbologia e formas de representação esquemática de um algoritmo.
