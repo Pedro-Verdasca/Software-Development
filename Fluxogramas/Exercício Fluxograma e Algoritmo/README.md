@@ -1,1 +1,1 @@
-Exercício de Fluxograma representado processo do cálculo de média e aprovação de aluno, além do código desenvolvido seguindo o fluxograma desenhado. 
+Exercício de Fluxograma representando cálculo de média e aprovação ou reprovação de aluno, além do código desenvolvido seguindo o fluxograma desenhado. 
